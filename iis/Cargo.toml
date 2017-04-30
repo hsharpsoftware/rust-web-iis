@@ -1,0 +1,12 @@
+[package]
+name = "iis"
+version = "0.1.0"
+authors = ["David Podhola <david.podhola@hsharp.software>"]
+description = "Set of helper functions for smooth running web server written in Rust on Internet Information Services (IIS) "
+repository = "https://github.com/hsharpsoftware/rust-web-iis"
+keywords = ["www", "iis", "azure"]
+gitlab = { repository = "https://github.com/hsharpsoftware/rust-web-iis", branch = "master" }
+categories = ["web-programming"]
+license = "MIT"
+
+[dependencies]
